@@ -1,3 +1,4 @@
+
 #include "main.h"
 /**
 *_strstr - The _strstr() function finds the first occurrence
@@ -32,3 +33,4 @@ char *_strstr(char *haystack, char *needle)
 	}
 	return ('\0');
 }
+

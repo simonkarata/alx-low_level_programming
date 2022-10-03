@@ -1,1 +1,1 @@
-static libraries?
+This repository is on static linking 
